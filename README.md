@@ -2,3 +2,4 @@
 <test2>
 # git Æ©Åä¸®¾ó
 test: fix-B
+itest : remote
